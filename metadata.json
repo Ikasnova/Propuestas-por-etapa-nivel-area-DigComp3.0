@@ -1,0 +1,5 @@
+{
+  "name": "Selección DigComp 3.0 Explorer según nivel",
+  "description": "An interactive tool to browse, search, and filter the DigComp 3.0 Learning Outcomes by competence area and proficiency level.",
+  "requestFramePermissions": []
+}
